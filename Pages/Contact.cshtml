@@ -1,0 +1,29 @@
+﻿@page
+@model Banica_Luis_Proiect.Pages.ContactModel
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h2>Contacteaza-ne</h2>
+
+@if (Model.hasData)
+{
+    <p>Salut @Model.firstname ,</p>
+    <p>Mesajul cu urmatorul continut, a fost receptionat:</p>
+    <p>@Model.message</p>
+}
+
+<div class="container">
+    <form method="POST">
+        <label for="fname">First Name</label><br />
+        <input type="text" id="fname" name="firstname" /><br />
+
+        <label for="lname">Last Name</label><br />
+        <input type="text" id="lname" name="lastname" /><br />
+
+        <label for="message">Message</label><br />
+        <textarea id="message" name="message" style="height:auto; width:300px"> </textarea> <br />
+
+        <input type="submit" value="Submit" />
+    </form>
+</div>
