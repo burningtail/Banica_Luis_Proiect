@@ -17,8 +17,8 @@ namespace Banica_Luis_Proiect.Models
             {
                 AssignedCategoryDataList.Add(new AssignedCategoryData
                 {
-                    CategorieId = cat.Id,
-                    Nume = cat.NumeCategorie,
+                    CategoryID = cat.Id,
+                    Name = cat.NumeCategorie,
                     Assigned = categoriiAutomobil.Contains(cat.Id)
                 });
             }

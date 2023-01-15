@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Banica_Luis_Proiect.props" />
+</Project>

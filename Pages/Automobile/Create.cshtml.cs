@@ -14,10 +14,7 @@ namespace Banica_Luis_Proiect.Pages.Automobile
     {
         private readonly Banica_Luis_Proiect.Data.Banica_Luis_ProiectContext _context;
 
-        public CreateModel(Banica_Luis_Proiect.Data.Banica_Luis_ProiectContext context)
-        {
-            _context = context;
-        }
+        public CreateModel(Banica_Luis_Proiect.Data.Banica_Luis_ProiectContext context) => _context = context;
 
         public IActionResult OnGet()
         {

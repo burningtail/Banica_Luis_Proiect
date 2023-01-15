@@ -19,7 +19,7 @@ namespace Banica_Luis_Proiect.Models
         [DataType(DataType.Date)]
         public DateTime DataInchirierii { get; set; }
 
-        public ICollection<CategorieAutomobil> CategoriiAutomobil { get; set; }
+        public ICollection<CategorieAutomobil>? CategoriiAutomobil { get; set; }
 
     }
 }

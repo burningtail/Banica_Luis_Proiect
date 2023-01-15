@@ -2,8 +2,8 @@
 {
     public class AssignedCategoryData
     {
-        public int CategorieId { get; set; }
-        public string Nume { get; set; }
+        public int CategoryID { get; set; }
+        public string Name { get; set; }
         public bool Assigned { get; set; }
     }
 }

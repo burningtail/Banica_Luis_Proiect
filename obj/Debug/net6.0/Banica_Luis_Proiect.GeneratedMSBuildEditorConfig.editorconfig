@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Banica_Luis_Proiect
+build_property.RootNamespace = Banica_Luis_Proiect
+build_property.ProjectDir = D:\UbbCluj\Medii Programare\VS Projects\Banica_Luis_Proiect\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\UbbCluj\Medii Programare\VS Projects\Banica_Luis_Proiect
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Automobile/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b21vYmlsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Automobile/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b21vYmlsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Automobile/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b21vYmlsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Automobile/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b21vYmlsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Automobile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b21vYmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Categorii/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Categorii/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Categorii/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Categorii/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Categorii/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UbbCluj/Medii Programare/VS Projects/Banica_Luis_Proiect/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2igpejw0g7
